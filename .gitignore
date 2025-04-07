@@ -1,0 +1,2 @@
+# Ignore the build folder inside app-cpp
+app-cpp/build/
